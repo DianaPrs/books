@@ -1,6 +1,6 @@
 # books
 
-Полезные книги
+[Полезные книги](https://pythonworld.ru/bookshop)
   
     Укус Питона (Swaroop Chitlur)
     Грокаем алгоритмы (Aditya Bhargava)
